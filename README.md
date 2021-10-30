@@ -4,6 +4,6 @@ This small project is a slider of tech reviews that will be displayed either usi
 The data is local and stored in data.js  
 I tried to apply what I learned about **useEffect()** and **useState()** React hooks .
 ## Preview  
-![preview of reviews slider]()  
+![preview of reviews slider](https://github.com/fedilayoub/reviews-slider/blob/main/preview.jpg)  
 ## Live Demo  
 [Reviews Slider](https://fedilayoub.github.io/reviews-slider)
